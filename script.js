@@ -1,5 +1,5 @@
 (function () {
-    var preTag = document.getElementById('donut');
+    var preTag = document.getElementById('index');
 
     // Angles, Radius and Contants
     var A = 1;
